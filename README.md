@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm not very experienced but I am willing to learn! 
+
+
 <!--
 **Rose2Gold/Rose2Gold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Who knows! Not me thats for sure!
 - ⚡ Fun fact: ...
 -->
