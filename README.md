@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I'm not very experienced but I am willing to learn! 
+🌱 I’m currently learning HTML, CSS and Bootstrap. 
+In my free time, I play games read and draw.
 
 
 <!--
@@ -9,7 +11,6 @@ I'm not very experienced but I am willing to learn!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
