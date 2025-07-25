@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm not very experienced but I am willing to learn! 
-🌱 I’m currently learning HTML, CSS and Bootstrap. 
+I'm not very experienced but I am willing to learn! <br>
+Currently in highschool<br>
+🌱 I’m currently learning HTML, CSS and Bootstrap. <br>
 In my free time, I play games read and draw.
 
 
